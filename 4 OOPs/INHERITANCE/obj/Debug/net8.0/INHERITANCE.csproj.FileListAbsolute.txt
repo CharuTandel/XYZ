@@ -1,0 +1,28 @@
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\bin\Debug\net8.0\INHERITANCE.exe
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\bin\Debug\net8.0\INHERITANCE.deps.json
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\bin\Debug\net8.0\INHERITANCE.runtimeconfig.json
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\bin\Debug\net8.0\INHERITANCE.dll
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\bin\Debug\net8.0\INHERITANCE.pdb
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\obj\Debug\net8.0\INHERITANCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\obj\Debug\net8.0\INHERITANCE.AssemblyInfoInputs.cache
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\obj\Debug\net8.0\INHERITANCE.AssemblyInfo.cs
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\obj\Debug\net8.0\INHERITANCE.csproj.CoreCompileInputs.cache
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\obj\Debug\net8.0\INHERITANCE.dll
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\obj\Debug\net8.0\refint\INHERITANCE.dll
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\obj\Debug\net8.0\INHERITANCE.pdb
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\obj\Debug\net8.0\INHERITANCE.genruntimeconfig.cache
+C:\Users\charu\OneDrive\Desktop\INHERITANCE\obj\Debug\net8.0\ref\INHERITANCE.dll
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\bin\Debug\net8.0\INHERITANCE.exe
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\bin\Debug\net8.0\INHERITANCE.deps.json
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\bin\Debug\net8.0\INHERITANCE.runtimeconfig.json
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\bin\Debug\net8.0\INHERITANCE.dll
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\bin\Debug\net8.0\INHERITANCE.pdb
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\obj\Debug\net8.0\INHERITANCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\obj\Debug\net8.0\INHERITANCE.AssemblyInfoInputs.cache
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\obj\Debug\net8.0\INHERITANCE.AssemblyInfo.cs
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\obj\Debug\net8.0\INHERITANCE.csproj.CoreCompileInputs.cache
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\obj\Debug\net8.0\INHERITANCE.dll
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\obj\Debug\net8.0\refint\INHERITANCE.dll
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\obj\Debug\net8.0\INHERITANCE.pdb
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\obj\Debug\net8.0\INHERITANCE.genruntimeconfig.cache
+C:\Users\charu\OneDrive\Desktop\4 OOPs\INHERITANCE\obj\Debug\net8.0\ref\INHERITANCE.dll
