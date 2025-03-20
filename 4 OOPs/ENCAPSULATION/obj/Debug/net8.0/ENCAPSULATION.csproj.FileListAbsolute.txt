@@ -1,0 +1,14 @@
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\bin\Debug\net8.0\ENCAPSULATION.exe
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\bin\Debug\net8.0\ENCAPSULATION.deps.json
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\bin\Debug\net8.0\ENCAPSULATION.runtimeconfig.json
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\bin\Debug\net8.0\ENCAPSULATION.dll
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\bin\Debug\net8.0\ENCAPSULATION.pdb
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\obj\Debug\net8.0\ENCAPSULATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\obj\Debug\net8.0\ENCAPSULATION.AssemblyInfoInputs.cache
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\obj\Debug\net8.0\ENCAPSULATION.AssemblyInfo.cs
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\obj\Debug\net8.0\ENCAPSULATION.csproj.CoreCompileInputs.cache
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\obj\Debug\net8.0\ENCAPSULATION.dll
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\obj\Debug\net8.0\refint\ENCAPSULATION.dll
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\obj\Debug\net8.0\ENCAPSULATION.pdb
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\obj\Debug\net8.0\ENCAPSULATION.genruntimeconfig.cache
+C:\Users\charu\OneDrive\Desktop\ENCAPSULATION\obj\Debug\net8.0\ref\ENCAPSULATION.dll
