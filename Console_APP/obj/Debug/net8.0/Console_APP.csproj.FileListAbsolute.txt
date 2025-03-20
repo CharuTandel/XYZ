@@ -1,0 +1,14 @@
+C:\Users\charu\OneDrive\Desktop\Console_APP\bin\Debug\net8.0\Console_APP.exe
+C:\Users\charu\OneDrive\Desktop\Console_APP\bin\Debug\net8.0\Console_APP.deps.json
+C:\Users\charu\OneDrive\Desktop\Console_APP\bin\Debug\net8.0\Console_APP.runtimeconfig.json
+C:\Users\charu\OneDrive\Desktop\Console_APP\bin\Debug\net8.0\Console_APP.dll
+C:\Users\charu\OneDrive\Desktop\Console_APP\bin\Debug\net8.0\Console_APP.pdb
+C:\Users\charu\OneDrive\Desktop\Console_APP\obj\Debug\net8.0\Console_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu\OneDrive\Desktop\Console_APP\obj\Debug\net8.0\Console_APP.AssemblyInfoInputs.cache
+C:\Users\charu\OneDrive\Desktop\Console_APP\obj\Debug\net8.0\Console_APP.AssemblyInfo.cs
+C:\Users\charu\OneDrive\Desktop\Console_APP\obj\Debug\net8.0\Console_APP.csproj.CoreCompileInputs.cache
+C:\Users\charu\OneDrive\Desktop\Console_APP\obj\Debug\net8.0\Console_APP.dll
+C:\Users\charu\OneDrive\Desktop\Console_APP\obj\Debug\net8.0\refint\Console_APP.dll
+C:\Users\charu\OneDrive\Desktop\Console_APP\obj\Debug\net8.0\Console_APP.pdb
+C:\Users\charu\OneDrive\Desktop\Console_APP\obj\Debug\net8.0\Console_APP.genruntimeconfig.cache
+C:\Users\charu\OneDrive\Desktop\Console_APP\obj\Debug\net8.0\ref\Console_APP.dll
